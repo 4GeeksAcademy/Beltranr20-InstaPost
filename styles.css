@@ -57,10 +57,15 @@ div.container{
 }
 
 #bookmark{
+    padding-top: 10px;
     padding-right: 10px;
     float: right;
 }
 
 .container2{
    float: right;
+}
+
+#heart{
+    padding-left: 10px;
 }
